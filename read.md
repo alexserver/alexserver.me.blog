@@ -1,1 +1,0 @@
-#The blog for [alexserver.me](alexserver.me)
