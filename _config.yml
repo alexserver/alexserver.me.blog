@@ -7,7 +7,7 @@ title: alexserver.me
 subtitle: Living in internet since 1997
 description: "Web development, jokes and other perks"
 author: "Alejandro Gomez @alexserver"
-language: "ES"
+language: "en-US"
 timezone:
 
 # URL
@@ -69,3 +69,4 @@ theme: carbon
 deploy:
   type: git
   repo: git@github.com:alexserver/alexserver.me.git
+  branch: master
