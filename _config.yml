@@ -69,3 +69,4 @@ theme: carbon
 deploy:
   type: git
   repo: git@github.com:alexserver/alexserver.me.git
+  branch: master
