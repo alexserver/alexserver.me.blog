@@ -4,11 +4,15 @@
 
 # Site
 title: alexserver.me
-subtitle: Living in internet since 1997
-description: "Web development, jokes and other perks"
+subtitle: Full Stack Web Developer
+description: "I speak spanish, english and javascript"
 author: "Alejandro Gomez @alexserver"
 language: "en-US"
 timezone:
+social:
+  linkedin: https://mx.linkedin.com/in/alejandrogomezarceo
+  twitter: https://twitter.com/alexserver
+  github: https://github.com/alexserver
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
