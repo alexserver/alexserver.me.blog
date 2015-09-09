@@ -1,4 +1,6 @@
 title: Hello F**ckn World
+date: 2015-05-23 15:53:15
+tags: development
 ---
 Debería un desarrolldor insultar en su blog ? Why not ?
 Este es mi primer post y estoy celebrando con júbilo que pude setear mi blog usando código japonés.
