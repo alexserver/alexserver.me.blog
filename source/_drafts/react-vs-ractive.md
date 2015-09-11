@@ -1,5 +1,5 @@
-title: "React or Ractive"
-tags:
+title: "React vs Ractive"
+tags: react
 ---
 If you ask Google about a comparision between React and Ractive, you won't find that much about it.
 

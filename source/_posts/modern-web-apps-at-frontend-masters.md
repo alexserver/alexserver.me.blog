@@ -1,4 +1,4 @@
-title: "modern web apps at frontend masters"
+title: "Modern web apps at frontend masters"
 date: 2015-07-01 15:53:15
 tags: development
 ---
