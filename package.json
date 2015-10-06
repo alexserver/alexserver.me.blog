@@ -20,8 +20,9 @@
     "hexo-server": "^0.1.2"
   },
   "scripts": {
+    "server": "http-server ./public/",
     "go": "hexo clean && hexo generate",
     "godraft": "hexo clean && hexo generate --draft",
-    "yolo": "hexo clean && hexo generate && hexo deploy"
+    "publish": "hexo clean && hexo generate && hexo deploy"
   }
 }
