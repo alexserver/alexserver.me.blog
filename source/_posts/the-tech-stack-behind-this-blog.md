@@ -1,6 +1,8 @@
-title: "The tech stack behind this blog"
-tags: tech, programming
+title: The tech stack behind this blog
+tags: 'tech, programming'
+date: 2015-10-06 07:19:42
 ---
+
 
 When I decided to start this project: a space to write about technology and software engineering, I wanted a minimalist tool to work with.
 
