@@ -20,6 +20,7 @@ url: http://alexserver.me
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+google_analytics: 'UA-2959794-3'
 
 # Directory
 source_dir: source
