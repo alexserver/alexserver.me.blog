@@ -1,6 +1,10 @@
 title: How Ractive changed my way to build web apps
-tags: 'ractive, javascript, front-end, development'
 date: 2015-09-15 06:35:35
+tags: 
+- ractive
+- javascript
+- front-end
+- development
 ---
 
 

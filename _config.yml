@@ -18,8 +18,9 @@ social:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://alexserver.me
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:lang/:title/
 permalink_defaults:
+  lang: en-US
 google_analytics: 'UA-2959794-3'
 
 # Directory

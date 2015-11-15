@@ -1,6 +1,8 @@
 title: The tech stack behind this blog
-tags: 'tech, programming'
 date: 2015-10-06 07:19:42
+tags:
+- tech
+- programming
 ---
 
 
