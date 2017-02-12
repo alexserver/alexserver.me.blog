@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "3.1.1"
+    "version": "3.2.2"
   },
   "dependencies": {
     "hexo": "^3.0.0",
@@ -22,6 +22,7 @@
   "scripts": {
     "server": "http-server ./public/",
     "go": "hexo clean && hexo generate",
+    "goserver": "hexo clean && hexo generate && http-server ./public/",
     "godraft": "hexo clean && hexo generate --draft",
     "publish": "hexo clean && hexo generate && hexo deploy"
   }
